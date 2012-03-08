@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'pdf-reader', '~> 1.0.0.rc1'
   s.add_dependency 'nokogiri', '>= 1.5.0'
-  s.add_dependency 'rmagick', '>= 2.13.1'
+  s.add_dependency 'rmagick'
   s.add_dependency 'prawn', '>= 0.11.1'
   s.add_dependency 'sqlite3', '>= 1.3.4'
   s.add_dependency 'commander', '>= 4.0.4'
