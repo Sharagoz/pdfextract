@@ -1,4 +1,4 @@
-require 'RMagick'
+require 'rmagick'
 
 require_relative 'abstract_view'
 
